@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/dorgan/unraid-networkstats/master/networkstats.plg</PluginURL>
+<PluginAuthor>dorgan</PluginAuthor>
+<Beta>False</Beta>
+<Category>Other:</Category>
+<Name>Network Stats</Name>
+<Description>
+This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
+</Description>
+<Support>https://forums.unraid.net/topic/74525-plugin-network-stat/</Support>
+<Icon>https://github.com/dorgan/Unraid-networkstats/raw/master/src/networkstats/usr/local/emhttp/plugins/networkstats/networkstats.png</Icon>
+</Containers>﻿
