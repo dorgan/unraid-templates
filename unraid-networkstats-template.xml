@@ -24,7 +24,7 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 ###2018.09.27b - Initial Release
   - Initial release, right now using default image output from vnstati, but will be updating to a better library soon
 </Changes>
-<Support>https://forums.unraid.net/topic/74525-plugin-network-stat/</Support>
+<Support>https://forums.unraid.net/topic/74525-plugin-network-stats/</Support>
 <Icon>https://github.com/dorgan/Unraid-networkstats/raw/master/src/networkstats/usr/local/emhttp/plugins/networkstats/networkstats.png</Icon>
 <DonateText>Contribute towards the beer/Starbucks/hardware fund</DonateText>
 <DonateLink>https://www.paypal.me/dorgan1983</DonateLink>
