@@ -10,6 +10,10 @@
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
 <Changes>
+###2018.10.02 -  More Tweaks
+  - Add ability for user to start/stop vnstat
+  - Fix detecting of vnstat daemon
+
 ###2018.09.29 - A bunch of fixes and updates
   - Changing icons and Correcting sizes
   - Update settings to detect interfaces
