@@ -9,7 +9,11 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
+<Date>2018-10-03</Date>
 <Changes>
+###2018.10.03 - Fix broken plugin
+  - Correct issue where vnstat wasnt starting
+
 ###2018.10.02 -  More Tweaks
   - Add ability for user to start/stop vnstat
   - Fix detecting of vnstat daemon
@@ -27,6 +31,7 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 
 ###2018.09.27b - Initial Release
   - Initial release, right now using default image output from vnstati, but will be updating to a better library soon
+
 </Changes>
 <Support>https://forums.unraid.net/topic/74525-plugin-network-stats/</Support>
 <Icon>https://github.com/dorgan/Unraid-networkstats/raw/master/src/networkstats/usr/local/emhttp/plugins/networkstats/networkstats.png</Icon>
