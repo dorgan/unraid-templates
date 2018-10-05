@@ -9,8 +9,10 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2018-10-03</Date>
+<Date>2018-10-05</Date>
 <Changes>
+###2018.10.05 - Fix plugin to detect vnstat daemon
+
 ###2018.10.03 - Fix broken plugin
   - Correct issue where vnstat wasnt starting
 
