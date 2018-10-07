@@ -9,8 +9,10 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2018-10-05</Date>
+<Date>2018-10-07</Date>
 <Changes>
+###2018.10.07 - Update plugin to use docker appdata path
+
 ###2018.10.06c - Fix the order in which the install program works and make it work on systes without cache drives.
 
 ###2018.10.05 - Fix plugin to detect vnstat daemon
