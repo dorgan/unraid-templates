@@ -11,7 +11,10 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2018-10-07</Date>
 <Changes>
-
+###2018.10.07b -  Couple bug fixes
+  - Fix mkdir command in install
+  - Fix incorrect substitution inside of vnstat.conf
+  
 ###2018.10.07a - Update vnstat.conf and set MaxBandwidth to 0
 
 ###2018.10.07 - Update plugin to use docker appdata path
