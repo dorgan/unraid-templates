@@ -9,12 +9,17 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2018-10-07</Date>
+<Date>2018-10-10</Date>
 <Changes>
+###2018.10.10 - Fix breaking unRAID
+  - Remove using DOCKER_CONFIG_APP_PATH
+  - revert to use /var/lib/vnstat for vnstat db
+  - future release I will look to make persistent across reboots and utilize events to copy data in/out of flash
+
 ###2018.10.07b -  Couple bug fixes
   - Fix mkdir command in install
   - Fix incorrect substitution inside of vnstat.conf
-  
+
 ###2018.10.07a - Update vnstat.conf and set MaxBandwidth to 0
 
 ###2018.10.07 - Update plugin to use docker appdata path
