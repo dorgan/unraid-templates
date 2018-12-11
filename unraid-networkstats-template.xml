@@ -11,6 +11,10 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2018-10-10</Date>
 <Changes>
+###2018.12.11
+  - No longer need dynamix plugin installed
+  - Fi vnstat config issue
+
 ###2018.10.10 - Fix breaking unRAID
   - Remove using DOCKER_CONFIG_APP_PATH
   - revert to use /var/lib/vnstat for vnstat db
