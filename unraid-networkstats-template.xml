@@ -11,6 +11,9 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2018-10-10</Date>
 <Changes>
+###2018.12.11a
+  - Correcting issue with Stats.page
+
 ###2018.12.11
   - No longer need dynamix plugin installed
   - Fi vnstat config issue
