@@ -11,6 +11,9 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2019-12-24</Date>
 <Changes>
+###2019.12.24a
+  - Updating to vnstat 2.4
+
 ###2019.12.24
   - Correcting MD5 has issue with vnstat package
 
