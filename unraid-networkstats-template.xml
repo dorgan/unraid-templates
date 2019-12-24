@@ -9,8 +9,11 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2018-10-10</Date>
+<Date>2019-12-24</Date>
 <Changes>
+###2019.12.24
+  - Correcting MD5 has issue with vnstat package
+
 ###2019.02.11
   - Correcting issue with images
 
