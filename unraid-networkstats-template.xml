@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/dorgan/unraid-networkstats/master/networkstats.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg</PluginURL>
 <PluginAuthor>dorgan</PluginAuthor>
 <Beta>False</Beta>
 <Category>Other:</Category>
@@ -9,10 +9,20 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2018-10-10</Date>
+<Date>2019-12-24</Date>
 <Changes>
 ###2020.02.16
   - Move vnstats package to be apart of the plugin, this way their releases do not break the plugin
+
+###2019.12.24a
+  - Updating to vnstat 2.4
+
+###2019.12.24
+  - Correcting MD5 has issue with vnstat package
+
+###2019.02.11
+  - Correcting issue with images
+
 ###2018.12.11a
   - Correcting issue with Stats.page
 
