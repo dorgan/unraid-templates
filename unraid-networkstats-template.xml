@@ -11,6 +11,9 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2020-04-14</Date>
 <Changes>
+###2020.04.14a
+ - Longer interface names were getting truncated, this is now fixed
+ 
 ###2020.04.14
  - Add ability to track more interfaces
 
