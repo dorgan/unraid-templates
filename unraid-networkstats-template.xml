@@ -9,8 +9,14 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2020-04-14</Date>
+<Date>2020-04-21</Date>
 <Changes>
+ ###2020.04.21
+ - Updating to FA icon
+ 
+###2020.04.15a
+ - Removing Stray function
+
  ###2020.04.14d
  - Fixing accidentially removed page info that was breaking plugin
 
