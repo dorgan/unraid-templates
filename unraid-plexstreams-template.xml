@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/plexstreams.plg</PluginURL>
+<PluginAuthor>dorgan</PluginAuthor>
+<Beta>True</Beta>
+<Category>Other:</Category>
+<Name>Plex Streams</Name>
+<Description>
+This plugin interfaces with a plex server to display current streams
+</Description>
+<Date>2020-05-14</Date>
+<Changes>
+ ###2020.05.14c
+ - Initial Beta Release
+</Changes>
+<Support>https://forums.unraid.net/topic/74525-plugin-network-stats/</Support>
+<IconFA>film</IconFA>
+<DonateText>Contribute towards the beer/Starbucks/hardware fund</DonateText>
+<DonateLink>https://www.paypal.me/dorgan1983</DonateLink>
+<DonateImg>https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/metadata/images/paypal.png</DonateImg>
+</Containers>
