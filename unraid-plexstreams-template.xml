@@ -11,6 +11,9 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-14</Date>
 <Changes>
+ ###2020.05.14d
+ - Some CSS tweaks and add icon for when tasks menu is on the left
+ 
  ###2020.05.14c
  - Initial Beta Release
 </Changes>
