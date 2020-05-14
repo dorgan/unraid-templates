@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/plexstreams.plg</PluginURL>
 <PluginAuthor>dorgan</PluginAuthor>
 <Beta>True</Beta>
-<Category>Other:</Category>
+<Category>MediaServer:Video, MediaServer:Music, MediaServer:Photos</Category>
 <Name>Plex Streams</Name>
 <Description>
 This plugin interfaces with a plex server to display current streams
