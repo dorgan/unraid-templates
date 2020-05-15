@@ -20,7 +20,7 @@ This plugin interfaces with a plex server to display current streams
  ###2020.05.14c
  - Initial Beta Release
 </Changes>
-<Support>https://forums.unraid.net/topic/74525-plugin-network-stats/</Support>
+<Support>https://forums.unraid.net/topic/92459-plugin-plex-streams/</Support>
 <IconFA>film</IconFA>
 <DonateText>Contribute towards the beer/Starbucks/hardware fund</DonateText>
 <DonateLink>https://www.paypal.me/dorgan1983</DonateLink>
