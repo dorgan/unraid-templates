@@ -9,8 +9,12 @@
 <Description>
 This plugin interfaces with a plex server to display current streams
 </Description>
-<Date>2020-05-15</Date>
+<Date>2020-05-16</Date>
 <Changes>
+ ###2020.05.16
+ - Added the ability to click on the Stream title to get content details
+ - Fixed bug that was displaying progress time incorrectly
+
  ###2020.05.14e
  - Remove unused function
  
