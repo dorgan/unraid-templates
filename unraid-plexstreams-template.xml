@@ -9,8 +9,11 @@
 <Description>
 This plugin interfaces with a plex server to display current streams
 </Description>
-<Date>2020-05-18</Date>
+<Date>2020-05-19</Date>
 <Changes>
+ ###2020.05.19
+ - Correct display issue on dashboard widget for long titles
+
  ###2020.05.18b
  - Display state icon on dashboard widget
  - Correct label for password on settings screen
