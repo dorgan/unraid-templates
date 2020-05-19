@@ -11,6 +11,9 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-19</Date>
 <Changes>
+ ###2020.05.19a
+ - Correcting display issue for stream transcodes
+ 
  ###2020.05.19
  - Correct display issue on dashboard widget for long titles
 
