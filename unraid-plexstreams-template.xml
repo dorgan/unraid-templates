@@ -9,8 +9,13 @@
 <Description>
 This plugin interfaces with a plex server to display current streams
 </Description>
-<Date>2020-05-19</Date>
+<Date>2020-05-20</Date>
 <Changes>
+ ###2020.05.20
+ - Add audio streams to both streams page and dashboard widget
+ - Remove debug output from saving settings
+ - Correct details screen for TV Shows
+ 
  ###2020.05.19a
  - Correcting display issue for stream transcodes
  
