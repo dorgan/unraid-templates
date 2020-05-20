@@ -11,6 +11,9 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-20</Date>
 <Changes>
+ ###2020.05.20a
+ - Correcting missing streamcount from dashboard widget
+ 
  ###2020.05.20
  - Add audio streams to both streams page and dashboard widget
  - Remove debug output from saving settings
