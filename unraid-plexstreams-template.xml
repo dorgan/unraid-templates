@@ -11,6 +11,10 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-20</Date>
 <Changes>
+ ###2020.05.20b
+ - Ability to turn dashboard widget on/off
+ - Ability to turn top level nav on/off
+ 
  ###2020.05.20a
  - Correcting missing streamcount from dashboard widget
  
