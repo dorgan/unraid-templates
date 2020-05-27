@@ -11,6 +11,9 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-20</Date>
 <Changes>
+###2020.05.27a
+ - Fix issue for movie details where not being pulled
+
 ###2020.05.27
  - Integrate with Plex OAuth
  - Allow for remote plex server connection
