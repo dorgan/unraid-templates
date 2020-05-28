@@ -11,6 +11,10 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-05-28</Date>
 <Changes>
+ ###2020.05.28a
+ - Added the ability for the streams page to show different servers
+     - Default server is what is used for dashboard widget
+ 
  ###2020.05.28
  - Correcting details sent to Plex.tv during OAuth Process
  
