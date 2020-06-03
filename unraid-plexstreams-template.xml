@@ -9,8 +9,11 @@
 <Description>
 This plugin interfaces with a plex server to display current streams
 </Description>
-<Date>2020-05-28</Date>
+<Date>2020-06-03</Date>
 <Changes>
+ ###2020.06.03
+ - Fix diplay issue where more than 3 streams was not wrapping
+ 
  ###2020.05.28b
  - Make sure server selection drop down appears when default server has no streams
  
