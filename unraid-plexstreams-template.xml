@@ -11,6 +11,9 @@ This plugin interfaces with a plex server to display current streams
 </Description>
 <Date>2020-06-07</Date>
 <Changes>
+ ###2020.06.07a
+ - Make dashboard widget use ajax so that it doesnt slow down the loading of the dashboard
+ 
  ###2020.06.07
  - Maintain settings for dashboard widget and nav item
 
