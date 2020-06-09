@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-09</Date>
 <Changes>
+ ###2020.06.09b
+ - Correct streams page image output and error for ajax call for Live TV streams
+ 
  ###2020.06.09a
  - Make sure settings are set before trying to display streams in the widget
  
