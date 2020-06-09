@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-09</Date>
 <Changes>
+ ###2020.06.09a
+ - Make sure settings are set before trying to display streams in the widget
+ 
  ###2020.06.09
  - Correct issue when plex server has disabled remote connections
  
