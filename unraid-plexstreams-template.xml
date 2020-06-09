@@ -9,8 +9,11 @@
 <Description>
 This plugin interfaces with a plex server to display current streams
 </Description>
-<Date>2020-06-07</Date>
+<Date>2020-06-09</Date>
 <Changes>
+ ###2020.06.09
+ - Correct issue when plex server has disabled remote connections
+ 
  ###2020.06.07a
  - Make dashboard widget use ajax so that it doesnt slow down the loading of the dashboard
  
