@@ -9,8 +9,11 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2020-06-09</Date>
+<Date>2020-06-10</Date>
 <Changes>
+ ###2020.06.10
+ - Updated way to use SSL when connecting to plex server.  This should fix outstanding problems.
+ 
  ###2020.06.09c
 - All multi-curl support and foundation for including DVR recording sessions
 - Added option to force https communication with Plex Servers - doesnt work locally, but maybe would work for others
