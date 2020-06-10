@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-10</Date>
 <Changes>
+ ###2020.06.10a
+ - Correcting display issue with live streams from Tuner Devices
+ 
  ###2020.06.10
  - Updated way to use SSL when connecting to plex server.  This should fix outstanding problems.
  
