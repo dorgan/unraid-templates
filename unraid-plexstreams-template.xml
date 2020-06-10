@@ -11,6 +11,10 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-09</Date>
 <Changes>
+ ###2020.06.09c
+- All multi-curl support and foundation for including DVR recording sessions
+- Added option to force https communication with Plex Servers - doesnt work locally, but maybe would work for others
+
  ###2020.06.09b
  - Correct streams page image output and error for ajax call for Live TV streams
  
