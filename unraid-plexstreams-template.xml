@@ -11,6 +11,12 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-20</Date>
 <Changes>
+ ###2020.06.20c
+ - Add streaming user to dashboard widget
+
+###2020.06.20b
+ - Updating movie details page to use correct HOST
+
  ###2020.06.20a
  - Fix javascript issues, and dashboard widget issue
 
