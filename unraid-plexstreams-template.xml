@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-20</Date>
 <Changes>
+ ###2020.06.20a
+ - Fix javascript issues, and dashboard widget issue
+
  ###2020.06.20
  - Fix JavaScript Issue when retrieving plex token
 
