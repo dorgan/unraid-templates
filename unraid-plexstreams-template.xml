@@ -9,8 +9,11 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2020-06-20</Date>
+<Date>2020-06-26</Date>
 <Changes>
+ ###2020.06.26
+ - Both the dashboard and th streams page now fully update with new/removed streams without having to reload
+
  ###2020.06.22
  - Updated streams page to update streams via ajax, still need to have it add streams as they come online
 
