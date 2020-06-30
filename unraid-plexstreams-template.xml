@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-30</Date>
 <Changes>
+ ###2020.06.30b
+ - Correct display issue for details page when there is no Director.
+ 
  ###2020.06.30a
  - Fix display issue for Legacy support
 
@@ -74,7 +77,7 @@ This plugin adds both a navigation item and dashboard widget for being able to s
  
  ###2020.05.28a
  - Added the ability for the streams page to show different servers
-     - Default server is what is used for dashboard widget
+ - Default server is what is used for dashboard widget
  
  ###2020.05.28
  - Correcting details sent to Plex.tv during OAuth Process
