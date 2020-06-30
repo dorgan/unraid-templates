@@ -9,8 +9,11 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2020-06-27</Date>
+<Date>2020-06-30</Date>
 <Changes>
+ ###2020.06.30a
+ - Fix display issue for Legacy support
+
  ###2020.06.27
  - Add Multi language support
  
