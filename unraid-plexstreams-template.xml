@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-06-30</Date>
 <Changes>
+ ###2020.07.09
+ - Correcting display issue for the dashboard widget
+
  ###2020.06.30b
  - Correct display issue for details page when there is no Director.
  
