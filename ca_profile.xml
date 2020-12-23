@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/dorgan/unraid-templates/master/images/avatar.jpg</Icon>
+  <Profile>
+    Creator/Maintainer of Network Stats plugin as well as Plex Streams plugin
+  </Profile>
+  <DonateLink>https://paypal.me/dorgan1983</DonateLink>
+  <DonateText>If you like my work please consider Donating.</DonateText>
+</Maintainer>
