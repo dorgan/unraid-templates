@@ -11,6 +11,10 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2020-07-23</Date>
 <Changes>
+ ###2021.02.09
+- Correcting some display issues where audio streams from plexamp were not showing
+- Adding details about transcoding sessions
+ 
  ###2020.07.23
 - Correcting legacy display issue for dashboard widget
 
