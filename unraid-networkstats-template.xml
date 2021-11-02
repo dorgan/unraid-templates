@@ -11,6 +11,9 @@ This plugin installs and utilizes vnstat to visualize network usage on your unRa
 </Description>
 <Date>2020-04-21</Date>
 <Changes>
+###2021.11.02
+ - Upgrade vnstat to 2.6
+
 ###2021.08.26
  - Fix file permission
  - change how vnstat is pulled so it doesnt give a false warning in Fix Common Problems
