@@ -9,8 +9,11 @@
 <Description>
 This plugin installs and utilizes vnstat to visualize network usage on your unRaid network interfaces
 </Description>
-<Date>2020-04-21</Date>
+<Date>2022-08-29</Date>
 <Changes>
+###2022.08.25
+- Removing images for now to get rid of external package dependencies, will add back images/graphs/charts in a future release
+ 
 ###2021.11.02
  - Upgrade vnstat to 2.6
 
