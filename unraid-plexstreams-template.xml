@@ -6,9 +6,10 @@
 <Beta>False</Beta>
 <Category>MediaServer:Video</Category>
 <Name>Plex Streams</Name>
-<Overview>This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams</Overview>
-<Description>This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams</Description>
-<Date>2022-08-29</Date>
+<Description>
+This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
+</Description>
+<Date>2023-03-21</Date>
 <Changes>
  ###2023.03.21
 - Add compatability for Unraid 6.12
