@@ -10,6 +10,11 @@
 <Description>This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams</Description>
 <Date>2022-08-29</Date>
 <Changes>
+ ###2023.03.21
+- Add compatability for Unraid 6.12
+- Fix bug with livestreams
+- Update nav/dashboard module to use conditions for whether to display instead of renaming files
+ 
  ###2022.08.29
 - Fix issue for audio files where title attribute contained html
  
