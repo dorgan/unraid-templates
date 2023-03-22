@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2023-03-21</Date>
 <Changes>
+ ###2023.03.22
+- Minor adjustments for PHP warnings/deprecations
+
  ###2023.03.21
 - Add compatability for Unraid 6.12
 - Fix bug with livestreams
