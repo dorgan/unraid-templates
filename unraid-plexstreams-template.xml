@@ -9,8 +9,14 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2023-03-31</Date>
+<Date>2023-04-07</Date>
 <Changes>
+ ###2023.04.07
+- Minor bug fix to get rid of php warnings
+
+ ###2023.04.06a
+- Add estimated end time to dashboard widget for unraid  6.12rc2+
+ 
  ###2023.03.31
 - Defect fix for legacy versions
 
