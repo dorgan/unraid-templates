@@ -9,8 +9,11 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2023-05-18</Date>
+<Date>2023-05-23</Date>
 <Changes>
+###2023.05.23
+- Adding a fix to surpress issues during plugin install
+
 ###2023.05.18
 - Add more fixes for PHP notices
 - Fix for display of Live TV streams
