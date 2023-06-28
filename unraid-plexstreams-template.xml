@@ -9,8 +9,12 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2023-05-23</Date>
+<Date>2023-06-28</Date>
 <Changes>
+###2023.06.28
+- Making end time respect time display settings
+- Fix for deprecated warning
+
 ###2023.05.23
 - Adding a fix to surpress issues during plugin install
 
