@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2023-06-28</Date>
 <Changes>
+###2023.06.28a
+- Correcting reversed logic
+
 ###2023.06.28
 - Making end time respect time display settings
 - Fix for deprecated warning
