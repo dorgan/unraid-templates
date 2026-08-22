@@ -11,6 +11,11 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-08-22</Date>
 <Changes>
+###2026.08.22c
+- feat: Add Server details to the plex streams page
+- feat: enhance user display in stream dashboard with unknown user handling and styling
+- feat: add dashboard widget layout options (default/condensed)
+
 ###2026.08.22b
 - feat: new look and feel
 
