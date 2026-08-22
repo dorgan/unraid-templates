@@ -9,8 +9,14 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2023-11-27</Date>
+<Date>2026-08-22</Date>
 <Changes>
+###2026.08.22
+- Fix server discovery immediately after obtaining a Plex token
+- Show server discovery errors when a token is missing or Unraid cannot reach plex.tv
+- Prevent overlapping stream status requests and pause polling in hidden browser tabs
+- Add macOS support for building plugin packages
+ 
 ###2023.11.27
 - Correcting bug for settings page
  
