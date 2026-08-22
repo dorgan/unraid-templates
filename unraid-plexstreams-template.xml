@@ -11,6 +11,20 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-08-22</Date>
 <Changes>
+###2026.08.22d
+- feeat: Enhance PlexStreams Dashboard with Live TV and Server Details
+- feat: enhance user display in stream dashboard with unknown user handling and styling
+- fix: Updated the JavaScript logic in plex.js to improve stream display, including live
+status indicators and enhanced quality labels.
+- feat: Introduced new functions for better handling of connection and client labels, as
+well as episode information.
+- feat: Added server details fetching functionality in server_details.php, ensuring server
+information is dynamically loaded and displayed.
+- feat: Enhanced the CSS in stream_display.php for improved visual presentation of server
+details, including transitions and hover effects.
+- feat: Implemented animations for new and exiting stream cards to enhance user experience.
+- fix: Improved handling of empty states in the stream display to provide clearer messaging
+when no streams are active.
 ###2026.08.22c
 - feat: Add Server details to the plex streams page
 - feat: enhance user display in stream dashboard with unknown user handling and styling
