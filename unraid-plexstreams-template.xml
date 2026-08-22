@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-08-22</Date>
 <Changes>
+###2026.08.22b
+- feat: new look and feel
+
 ###2026.08.22a
 - feat: harden Plex stream discovery and modernize live rendering
 - use the transient OAuth token for server discovery before settings are saved
