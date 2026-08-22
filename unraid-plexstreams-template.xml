@@ -11,6 +11,9 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-08-22</Date>
 <Changes>
+###2026.08.22e
+- feat: expand/collapse: server details and server sections and browser will remember their state
+- feat: enhance stream management with session termination and health indicators
 ###2026.08.22d
 - feeat: Enhance PlexStreams Dashboard with Live TV and Server Details
 - feat: enhance user display in stream dashboard with unknown user handling and styling
