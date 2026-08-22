@@ -11,6 +11,19 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-08-22</Date>
 <Changes>
+###2026.08.22a
+- feat: harden Plex stream discovery and modernize live rendering
+- use the transient OAuth token for server discovery before settings are saved
+- add non-overlapping, visibility-aware stream polling for dashboard and detail views
+- replace dedicated-page server rendering with an AJAX-first spinner and client-rendered cards
+- add opt-in, redacted debug logging with OAuth/discovery events, log viewer, copy action, and rotation
+- classify Plex transport failures and ignore blank configured hosts during polling
+- cache remote GeoIP lookups and bound external request timeouts
+- harden the image proxy to configured Plex hosts and relative image paths
+- consolidate stream normalization, XML handling, timing, settings visibility, and dashboard helpers
+- add video/audio normalization regression fixtures while excluding tests from sync and release archives
+- improve media-detail XML handling and cleanup legacy dashboard/settings behavior
+
 ###2026.08.22
 - Fix server discovery immediately after obtaining a Plex token
 - Show server discovery errors when a token is missing or Unraid cannot reach plex.tv
