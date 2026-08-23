@@ -9,8 +9,12 @@
 <Description>
 This plugin adds both a navigation item and dashboard widget for being able to see exactly what is currently streaming from your plex servers and the details of those streams
 </Description>
-<Date>2026-08-22</Date>
+<Date>2026-08-23</Date>
 <Changes>
+ ###2026.08.23
+ - Add Jellyfin and Emby Support
+ - feat: update settings page look/feel
+ - feat: update settings page to support emby/jellyfin servers
 ###2026.08.22e
 - feat: expand/collapse: server details and server sections and browser will remember their state
 - feat: enhance stream management with session termination and health indicators
