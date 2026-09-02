@@ -11,6 +11,8 @@ This plugin adds both a navigation item and dashboard widget for being able to s
 </Description>
 <Date>2026-09-01</Date>
 <Changes>
+ ###2026.09.02
+ - refactor: streamline Plex API requests by removing token from URLs and adding request headers
  ###2026.09.01a
  - feat: implement Plex HTTPS fallback and connection testing enhancements
  ###2026.09.01
